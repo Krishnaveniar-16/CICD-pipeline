@@ -8,5 +8,4 @@ jobs:
         steps:
             - name: printing a message
               run: echo "Hello, World!"
-            - name: show date and time
-              run: date
+          
