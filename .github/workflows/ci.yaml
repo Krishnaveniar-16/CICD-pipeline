@@ -6,6 +6,6 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-            - name: printing a message
+            - name: printing a message with cron job
               run: echo "Hello, World!"
           
